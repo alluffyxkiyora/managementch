@@ -1,10 +1,34 @@
 [
-  "120363402284156198@newsletter",
-  "120363344561691882@newsletter",
-  "120363400406981673@newsletter",
-  "120363301743038361@newsletter",
-  "120363420027077271@newsletter",
-  "120363377604116680@newsletter",
-  "120363365398682521@newsletter",
-  "120363425796549619@newsletter"
+  {
+    "id": "120363402284156198@newsletter",
+    "desc": "AL LUFFY"
+  },
+  {
+    "id": "120363344561691882@newsletter",
+    "desc": "AL LUFFY"
+  },
+  {
+    "id": "120363400406981673@newsletter",
+    "desc": "AL LUFFY"
+  },
+  {
+    "id": "120363301743038361@newsletter",
+    "desc": "AL LUFFY"
+  },
+  {
+    "id": "120363420027077271@newsletter",
+    "desc": "AL LUFFY"
+  },
+  {
+    "id": "120363377604116680@newsletter",
+    "desc": "AL LUFFY"
+  },
+  {
+    "id": "120363365398682521@newsletter",
+    "desc": "AL LUFFY"
+  },
+  {
+    "id": "120363425796549619@newsletter",
+    "desc": "AL LUFFY"
+  }
 ]
